@@ -3,8 +3,8 @@
 ### DAFTAR TUGAS 
 | TUGAS | FILE |
 | ------| -----|
-| [TUGAS 1](#Tugas1) |  _[FILE](https://github.com/adindazaahraa/administrasijaringan/tree/main/Tugas-Pertama)_ |
-| [TUGAS 2](#Tugas2) |  _[FILE](https://github.com/adindazaahraa/administrasijaringan/tree/main/Tugas-Kedua)_ |
+| [TUGAS 1](#Tugas1) |  _[KLICK HERE](https://github.com/adindazaahraa/administrasijaringan/tree/main/Tugas-Pertama)_ |
+| [TUGAS 2](#Tugas2) |  _[KLICK HERE](https://github.com/adindazaahraa/administrasijaringan/tree/main/Tugas-Kedua)_ |
 
 ### ANGGOTA KELOMPOK
 | NAMA                          | NRP       |
