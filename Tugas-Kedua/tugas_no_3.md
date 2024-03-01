@@ -6,21 +6,14 @@
 - <h4>NETWORK MANAGER</h4>
 
     - Buka Network Manage 
-    - Buka setting pada interface terhubung terlebih dahulu
-    <img src="img/Wired SS.png"> 
-    - Pilih Menu IPV4 lalu klik manual, isi kolom sesuai perintah di abwah ini
-    <img src="img/Menu IPV4.png">
-    - Buka terminal dan tuliskan perintah ip addr, maka akan muncul hasil di bawah ini
-    <img src="img/Hasil Manual IPV4.png">
+    - Buka setting pada interface terhubung terlebih dahulu <br> <img src="img/Wired SS.png"> 
+    - Pilih Menu IPV4 lalu klik manual, isi kolom sesuai perintah di abwah ini <br> <img src="img/Menu IPV4.png">
+    - Buka terminal dan tuliskan perintah ip addr, maka akan muncul hasil di bawah ini <br> <img src="img/Hasil Manual IPV4.png">
 
 - INTERFACES FILES
-    - Jalankan perintah pada terminal Debian
-    <img src="img/Jalankan perintah.png">
-    - Setting format address dan gateway
-    <img src="img/Setting perintah.png">
-    - Lakukan ifdown ifup interface menggunakan enp03s (nama interface)
-    <img src="img/Ifdown Ifup interface.png">
-    - Makan akan muncul hasil seperti di bawah ini
-    <img src="img/Hasil ifdown ifup.png">
+    - Jalankan perintah pada terminal Debian <br> <img src="img/Jalankan perintah.png">
+    - Setting format address dan gateway <br> <img src="img/Setting perintah.png">
+    - Lakukan ifdown ifup interface menggunakan enp03s (nama interface) <br> <img src="img/Ifdown Ifup interface.png">
+    - Makan akan muncul hasil seperti di bawah ini <br> <img src="img/Hasil ifdown ifup.png">
 </body>
 </html>
