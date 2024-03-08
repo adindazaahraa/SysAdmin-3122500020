@@ -191,4 +191,4 @@
 17. Mikrotik sekarang telah terhubung dengan konfigurasi subnet yang baru.
 
 ## Topologi
-![alt text]()
+![alt text](img/032.png)
