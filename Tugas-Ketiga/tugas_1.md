@@ -145,8 +145,8 @@
 
 2. <b> Installation in terminal mode with `Dpkg` </b><br>
    Dpkg adalah utilitas perangkat lunak yang menangani paket, seperti halnya apt, tetapi tanpa mengelola dependensi.
-   - Buka terminal:
-     ![alt text](img/029.png)
+   - Buka terminal: <br>
+     ![alt text](img/029.png) 
    - Menginstal Paket Eksternal:
       ```
       dpkg -i nama_paket.deb
@@ -191,4 +191,4 @@
 17. Mikrotik sekarang telah terhubung dengan konfigurasi subnet yang baru.
 
 ## Topologi
-![alt text](img/032.png)
+![alt text](img/033.png)
