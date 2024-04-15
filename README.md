@@ -5,7 +5,7 @@
 | ------| -----|
 | TUGAS 1 |  _[KLICK HERE](https://github.com/adindazaahraa/administrasijaringan/tree/main/Tugas-Pertama)_ |
 | TUGAS 2 |  _[KLICK HERE](https://github.com/adindazaahraa/administrasijaringan/tree/main/Tugas-Kedua)_ |
-| TUGAS 3 |  _[README.MD](https://github.com/adindazaahraa/SysAdmin-3122500020/tree/main/Tugas-Ketiga)_ |
+| TUGAS 3 |  _[README.MD](https://github.com/adindazaahraa/SysAdmin-3122500020/blob/main/Tugas-Ketiga/tugas_1.md)_ |
 | TUGAS 4 |  _[KLICK HERE](https://github.com/adindazaahraa/SysAdmin-3122500020/tree/main/Tugas-Keempat)_ |
 | UTS |  _[web_emailsystem.md](https://github.com/adindazaahraa/SysAdmin-3122500020/blob/main/Tugas-UTS/web_emailsystem.md)_ |
 
