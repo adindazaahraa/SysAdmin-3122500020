@@ -22,7 +22,7 @@
 Pastikan BIND9 pada praktikum sebelumnya sudah terinstall dan terkonfigurasi sesuai dengan custom domain kelompok.
 
 **Kembalikan debian dalam keadaan Network NAT dan IP DNS Automatic agar terkoneksi dengan internet.** <br>
-<img src="../Tugas-UTS" width="70%" height="auto"><br>
+// <img src="../Tugas-UTS" width="70%" height="auto"><br>
 
 - Atur server email pada konfigurasi zona agar dapat diakses melalui ```mail.kelompok10.local.``` <br>
     <img src="../Tugas-UTS/img/1.1.png" width="70%" height="auto"><br>
