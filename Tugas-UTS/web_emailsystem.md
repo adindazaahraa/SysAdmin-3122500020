@@ -103,7 +103,7 @@ Pastikan BIND9 pada praktikum sebelumnya sudah terinstall dan terkonfigurasi ses
    sudo systemctl reload apache2
    ```
    <img src="../Tugas-UTS/img/3.10.png" width="70%" height="auto"><br>
-7. Periksa apakah webserver berjalan dengan membuka browser. Tapi sebelumnya ubah dulu IP dan DNS sesuai dengan yang sudah diset sebelumnya!
+7. Periksa apakah webserver berjalan dengan membuka browser. Tapi sebelumnya ubah dulu IP dan DNS sesuai dengan yang sudah diset sebelumnya!<br>
    <img src="../Tugas-UTS/img/3.11.png" width="70%" height="auto"><br>
    <img src="../Tugas-UTS/img/3.12.png" width="70%" height="auto"><br>
    **Apache berhasil diakses!**
@@ -180,10 +180,10 @@ Pastikan BIND9 pada praktikum sebelumnya sudah terinstall dan terkonfigurasi ses
    Remove test database and access to it? [Y/n] y
    Reload privilege tables now? [Y/n] y
    ```
-4. Tes konek ke mariadb dengan masuk ke dalam MySQL dan cek akses pengguna.
+4. Tes konek ke mariadb dengan masuk ke dalam MySQL dan cek akses pengguna.<br>
    <img src="../Tugas-UTS/img/6.4.png" width="70%" height="auto"><br>
    <img src="../Tugas-UTS/img/6.5.png" width="70%" height="auto"><br>
-5. Pastikan instalasi MySQL berhasil dengan membuat database dan tabel dummy.
+5. Pastikan instalasi MySQL berhasil dengan membuat database dan tabel dummy.<br>
    <img src="../Tugas-UTS/img/6.6.png" width="70%" height="auto"><br>
 6. Lihat semua database<br>
    <img src="../Tugas-UTS/img/6.7.png" width="70%" height="auto"><br>
