@@ -151,7 +151,7 @@ Pastikan BIND9 pada praktikum sebelumnya sudah terinstall dan terkonfigurasi ses
    <img src="../Tugas-UTS/img/5.5.png" width="70%" height="auto"><br>
 4. Uji coba webserver dengan membuat ```file info.php```.
    <img src="../Tugas-UTS/img/5.6.png" width="70%" height="auto"><br>
-5. Cek pada web, jangan lupa kembalikan ke IP dan DNS manual untuk mengakses internet.
+5. Cek pada web, jangan lupa kembalikan ke IP dan DNS manual untuk mengakses internet.<br>
    <img src="../Tugas-UTS/img/5.7.png" width="70%" height="auto"><br>
    Berhasil!
 
