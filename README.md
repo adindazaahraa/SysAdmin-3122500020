@@ -8,6 +8,7 @@
 | TUGAS 3 |  _[README.md](https://github.com/adindazaahraa/SysAdmin-3122500020/blob/main/Tugas-Ketiga/tugas_1.md)_ |
 | TUGAS 4 |  _[KLICK HERE](https://github.com/adindazaahraa/SysAdmin-3122500020/tree/main/Tugas-Keempat)_ |
 | UTS |  _[WEB_EMAILSYSTEM.md](https://github.com/adindazaahraa/SysAdmin-3122500020/blob/main/Tugas-UTS/web_emailsystem.md)_ |
+| TUGAS 6 |  _[ARSITEKTUR_WEB.md](https://github.com/adindazaahraa/SysAdmin-3122500020/blob/main/Tugas-Keenam/arsitektur_web.md)_ |
 
 
 ### ANGGOTA KELOMPOK
