@@ -26,7 +26,7 @@
 ## A. Getting Started
 1. **Login ke https://labs.play-with-docker.com/ untuk mengakses terminal PWD Anda**
    
-  <img src="../Tugas-Ketujuh/img/0.1.png" width="100%" height="auto">
+   <img src="../Tugas-Ketujuh/img/0.1.png" width="100%" height="auto">
   
 3. **Ketik perintah berikut di terminal PWD Anda:** 
    ```
