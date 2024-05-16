@@ -25,8 +25,10 @@
 
 ## A. Getting Started
 1. **Login ke https://labs.play-with-docker.com/ untuk mengakses terminal PWD Anda**
+   
   <img src="../Tugas-Ketujuh/img/0.1.png" width="100%" height="auto">
-2. **Ketik perintah berikut di terminal PWD Anda:** 
+  
+3. **Ketik perintah berikut di terminal PWD Anda:** 
    ```
    docker run -dp 80:80 docker/getting-started:pwd
    ```
@@ -36,14 +38,14 @@
    `dockersamples/101-tutorial` - gambar yang digunakan
    
    <img src="../Tugas-Ketujuh/img/0.2.png" width="100%" height="auto"><br>
-3. **Tunggu hingga container dimulai dan klik badge port 80**
+4. **Tunggu hingga container dimulai dan klik badge port 80**
    
    <img src="../Tugas-Ketujuh/img/0.3.png" width="100%" height="auto"><br>
-4. **Apa itu container?**<br>
+5. **Apa itu container?**<br>
    Singkatnya, container adalah proses lain di mesin Anda yang diisolasi dari semua proses lain di mesin host. Isolasi ini memanfaatkan kernel namespaces dan cgroups, fitur yang sudah lama ada di Linux. Docker membuat kemampuan ini lebih mudah diakses dan digunakan.
-5. **Apa itu container image?**<br>
+6. **Apa itu container image?**<br>
    Saat menjalankan container, ia menggunakan filesystem yang terisolasi. Filesystem khusus ini disediakan oleh container image. Karena image berisi filesystem container, ia harus mengandung semua yang diperlukan untuk menjalankan aplikasi - semua dependensi, konfigurasi, skrip, biner, dll. Image juga berisi konfigurasi lain untuk container, seperti variabel lingkungan, perintah default untuk dijalankan, dan metadata lainnya.
-6. Saya akan membahas lebih dalam tentang image nanti, termasuk topik seperti layering, praktik terbaik, dan lainnya.
+7. Saya akan membahas lebih dalam tentang image nanti, termasuk topik seperti layering, praktik terbaik, dan lainnya.
 
 ## B. Our Application
 ### Memasukkan Aplikasi ke PWD
