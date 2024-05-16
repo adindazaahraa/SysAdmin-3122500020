@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <h1 style="text-align: center;">LAPORAN WORKSHOP ADMINISTRASI JARINGAN<br>Tugas 6: Arsitektur web browser dan web server</h1>
+  <h1 style="text-align: center;">LAPORAN WORKSHOP ADMINISTRASI JARINGAN</h1>
   <h4 style="text-align: center;">Dosen Pengampu : Dr. Ferry Astika Saputra, S.T., M.Sc.</h4>
 </div>
 
@@ -20,6 +20,8 @@
 </div>
 
 #
+
+# A. Web Server and Web Browser Architecture
 
 ## Web Browser(Client)
 <p align="center">
@@ -86,3 +88,9 @@ Tambahan:
 - Siklus permintaan-respons web dapat diulang beberapa kali untuk memuat semua sumber daya yang membentuk halaman web.
 - Siklus permintaan-respons web dapat digunakan untuk mengirimkan data ke server, seperti saat pengguna mengirimkan formulir.
 - Siklus permintaan-respons web dapat digunakan untuk menerima data dari server, seperti saat pengguna memuat halaman web.
+
+#
+
+# B. Containerized Web Server Using Docker
+
+## 
